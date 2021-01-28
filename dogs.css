@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+}
+ .texts{
+     position:absolute;
+     left: 120px;
+     top:200px;
+     background-color: white;
+     font-size: 20px;
+ }
